@@ -2,6 +2,10 @@
  
 #### Bitácora de una deriva sobre las relaciones entre cuerpo-máquina-ciudad mediadas por prácticas experimentales e investigaciones sobre tecnologías, recorrido, e improntas filiales para sobrevivir y resistir en tiempos del hoy.
 
+##### Anotaciones devenires de una deriva en la creación artística como investigación.
+La contraparte de «Anotaciones devenires de una deriva en la creación artística como investigación» podría formularse como «La investigación como práctica artística». Esta perspectiva propone que el pensamiento filosófico, conceptual y crítico no permanezca confinado a su elaboración intelectual o discursiva, sino que se aventure a materializarse mediante operaciones estéticas, experiencias sensibles y acciones situadas. Se trata de desplazar el pensamiento hacia el plano físico, haciendo del cuerpo, los materiales, los procedimientos y la experimentación espacios activos de reflexión y producción de conocimiento. Así, la práctica artística no funciona como una mera ilustración de ideas previamente concebidas, sino como un modo de pensar, poner a prueba y producir pensamiento desde la experiencia.
+
+
 ## 1. Enfoque Metodológico y Posicionamiento frente a las Tecnologías Digitales
 
 * **Investigación basada en la creación:** El hacer artístico funciona como método de conocimiento y no como mera ilustración de teoría previa. La pregunta doctoral se afina y desplaza en ciclos recursivos de práctica, registro, montaje y reflexión.
